@@ -1,4 +1,5 @@
-# PSX Market Pulse Scraper & Dashboard A production-grade Python tool that extracts real-time market data from the Pakistan Stock Exchange (PSX), cleanses the data for financial analysis, and visualizes it through an interactive dashboard.
+# PSX Market Pulse Scraper & Dashboard 
+A production-grade Python tool that extracts real-time market data from the Pakistan Stock Exchange (PSX), cleanses the data for financial analysis, and visualizes it through an interactive dashboard.
 
 ## Features Automated Extraction: 
 Bypasses front-end JavaScript rendering by intercepting internal API endpoints.
